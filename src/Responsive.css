@@ -1,0 +1,23 @@
+@media (max-width: 1200px) {
+  .signIn-main{
+   width: 50%;
+  }
+}
+
+@media (max-width: 991px) {
+  .container-fluid {
+    width: 100% !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .container-fluid {
+    width: 100% !important;
+  }
+}
+
+@media (max-width: 576px) {
+  .homeGamesDiv {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
